@@ -11,6 +11,8 @@ Dockerfile    text
 *.mdwn       text
 *.mdown      text
 *.mkd        text
+
+*.mdsk       text
 *.mkdn       text
 *.mdtxt      text
 *.mdtext     text
